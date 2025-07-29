@@ -1,0 +1,15 @@
+2025-07-27 18:22:22 | Unknown column 'active' in 'where clause' | {"error_code":1054,"user_id":null,"page":null}
+2025-07-27 18:22:28 | Unknown column 'active' in 'where clause' | {"error_code":1054,"user_id":null,"page":"shelters"}
+2025-07-27 18:22:28 | Unknown column 'active' in 'where clause' | {"error_code":1054,"user_id":null,"page":"dashboard"}
+2025-07-27 18:22:29 | Unknown column 'active' in 'where clause' | {"error_code":1054,"user_id":null,"page":"users"}
+2025-07-27 18:22:35 | Unknown column 'active' in 'where clause' | {"error_code":1054,"user_id":null,"page":"users"}
+2025-07-27 18:22:36 | Unknown column 'active' in 'where clause' | {"error_code":1054,"user_id":null,"page":"shelters"}
+2025-07-27 18:22:36 | Unknown column 'active' in 'where clause' | {"error_code":1054,"user_id":null,"page":"dashboard"}
+2025-07-27 18:22:38 | Unknown column 'active' in 'where clause' | {"error_code":1054,"user_id":null,"page":null}
+2025-07-27 18:22:39 | Unknown column 'active' in 'where clause' | {"error_code":1054,"user_id":null,"page":"dashboard"}
+2025-07-27 18:22:43 | Unknown column 'active' in 'where clause' | {"error_code":1054,"user_id":null,"page":null}
+2025-07-27 18:22:47 | Unknown column 'active' in 'where clause' | {"error_code":1054,"user_id":null,"page":"shelters"}
+2025-07-27 18:22:47 | Unknown column 'active' in 'where clause' | {"error_code":1054,"user_id":null,"page":"dashboard"}
+2025-07-27 18:22:49 | Unknown column 'active' in 'where clause' | {"error_code":1054,"user_id":null,"page":null}
+2025-07-27 18:22:49 | Unknown column 'active' in 'where clause' | {"error_code":1054,"user_id":null,"page":null}
+2025-07-27 18:22:57 | Unknown column 'active' in 'where clause' | {"error_code":1054,"user_id":null,"page":null}
